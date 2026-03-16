@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "smartretry"
-include(":app")
- 
+include(":smart-retry")
+include(":sample")
